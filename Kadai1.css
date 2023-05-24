@@ -85,7 +85,7 @@
 }
 
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
     .main-group{
     width: 100%;
     display: block;
